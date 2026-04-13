@@ -3,7 +3,7 @@ IT Infrastructure Audit &amp; GRC Compliance Strategy for a multi-branch automot
 # IT Infrastructure Audit & GRC Strategy: Crepley Inc.
 
 ## Project Overview
-This repository contains a comprehensive security audit and governance strategy for **Crepley Inc.**, a Canadian automotive manufacturer with 800+ employees. The project focuses on transitioning a high-risk remote work environment into a matured, compliant enterprise infrastructure.
+This repository contains a comprehensive security audit and governance strategy for a made up name; **Crepley Inc.**, a Canadian automotive manufacturer with 800+ employees. The project focuses on transitioning a high-risk remote work environment into a matured, compliant enterprise infrastructure.
 
 ## Key Frameworks Applied
 * **COBIT**: Evaluated and matured organizational capability from Level 0 to Level 5.
