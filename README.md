@@ -1,7 +1,7 @@
 # GRC-Portfolio
  **Akachi Clement Egbeke**
-## Project Overview
-This repository contains a comprehensive security audit and governance strategy for a made up name; **Crepley Inc.**, a Canadian automotive manufacturer with 800+ employees. The project focuses on transitioning a high-risk remote work environment into a matured, compliant enterprise infrastructure.
+B.Sc. Physiology, Digital Health, & Cybersecurity Certifications (Security+, AZ-900, SC-900)
+
 
 ## Key Frameworks Applied
 * **COBIT**: Evaluated and matured organizational capability from Level 0 to Level 5.
