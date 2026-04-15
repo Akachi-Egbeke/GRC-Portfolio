@@ -5,7 +5,7 @@ B.Sc. Physiology, Digital Health, & Cybersecurity Certifications (Security+, AZ-
 
 
 ## Portfolio Projects
-[Healthcare Risk Register & Assessment](./GRC_Portfolio_Project%20v1.pdf)
+[Healthcare Risk Register & Assessment](./GRC_Portfolio_Project%20v1.pdf) 
 A detailed GRC assessment for an Ontario-based healthcare organization.
 
 * Key Focus: Compliance with PHIPA and ISO 27001 in a cloud-hosted EHR environment.
