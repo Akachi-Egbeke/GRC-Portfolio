@@ -13,3 +13,6 @@ This repository contains a comprehensive security audit and governance strategy 
 * **Unauthorized Remote Access**: Eliminated the lack of VPN usage and unmanaged BYOD risks.
 * **Business Continuity**: Optimized backup cycles and disaster recovery protocols.
 * **Data Privacy**: Established "Least Privilege" and "Need-to-Know" access for sensitive customer PII.
+
+## Deliverables
+* [View full report](./
