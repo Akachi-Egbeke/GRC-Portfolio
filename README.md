@@ -11,10 +11,12 @@ A detailed GRC assessment for an Ontario-based healthcare organization.
 * Key Focus: Compliance with PHIPA and ISO 27001 in a cloud-hosted EHR environment.
 
 * Deliverables: Full Risk Register and Zero Trust implementation strategy.
-* 
-* **COBIT**: Evaluated and matured organizational capability from Level 0 to Level 5.
-* **CIS Controls**: Implemented technical safeguards (Controls 5, 6, 7, 8, & 9) for malware defense and network security.
-* **PIPEDA**: Aligned data handling practices with the 10 Fair Information Principles for Canadian private-sector privacy compliance.
+
+*[IT Infrastructure Audit & GRC Strategy](./AUDIT_Auto_company.pdf)
+
+A comprehensive security audit for a Canadian automotive manufacturer (Crepley Inc.).
+
+* Key Focus: Transitioning a high-risk remote work environment using PIPEDA, COBIT, and CIS Controls.
 
 ## Risks Mitigated
 * **Unauthorized Remote Access**: Eliminated the lack of VPN usage and unmanaged BYOD risks.
