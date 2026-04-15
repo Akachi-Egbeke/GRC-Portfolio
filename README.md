@@ -1,7 +1,8 @@
 # GRC-Portfolio
  **Akachi Clement Egbeke**
 
-B.Sc. Physiology, Digital Health, & Cybersecurity Certifications (Security+, AZ-900, SC-900)
+B.Sc. Physiology, Digital Health(post grad), & Cybersecurity Certifications (post grad) 
+Certifications (ISO 27001, Security+, AZ-900, SC-900)
 
 
 ## Portfolio Projects
