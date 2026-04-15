@@ -1,7 +1,5 @@
 # GRC-Portfolio
-IT Infrastructure Audit &amp; GRC Compliance Strategy for a multi-branch automotive enterprise using COBIT, CIS Controls, and PIPEDA.
-# IT Infrastructure Audit & GRC Strategy: Crepley Inc.
-
+* **Akachi Clement Egbeke**
 ## Project Overview
 This repository contains a comprehensive security audit and governance strategy for a made up name; **Crepley Inc.**, a Canadian automotive manufacturer with 800+ employees. The project focuses on transitioning a high-risk remote work environment into a matured, compliant enterprise infrastructure.
 
