@@ -15,4 +15,4 @@ This repository contains a comprehensive security audit and governance strategy 
 * **Data Privacy**: Established "Least Privilege" and "Need-to-Know" access for sensitive customer PII.
 
 ## Deliverables
-* [View full report](./
+* [View full report](./AUDIT_Auto_company.pdf)
