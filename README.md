@@ -15,7 +15,7 @@ A detailed GRC assessment for an Ontario-based healthcare organization.
 
 * Deliverables: Full Risk Register and Zero Trust implementation strategy.
 
-[IT Infrastructure Audit & GRC Strategy](./AUDIT_Auto_company.pdf)
+[IT Infrastructure Audit & GRC Strategy](./Automotive-Audit)
 
 A comprehensive security audit for a Canadian automotive manufacturer (Crepley Inc.).
 
