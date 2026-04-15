@@ -7,7 +7,7 @@ Certifications (ISO 27001, Security+, AZ-900, SC-900)
 
 
 ## Portfolio Projects
-[Healthcare Risk Register & Assessment](./GRC_Portfolio_Project%20v1.pdf) 
+[Healthcare Risk Register & Assessment](./Healthcare-Assessment) 
 
 A detailed GRC assessment for an Ontario-based healthcare organization.
 
