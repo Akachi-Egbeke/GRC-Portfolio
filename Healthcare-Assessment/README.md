@@ -10,7 +10,7 @@ Cloud infrastructure (Azure), PHI/PII data protection, and user access controls.
 ## Risk Register: Covers 7 key risks including unauthorized PHI access (R1) and Ransomware (R4).
 
 ## Summary of Key Recomendations
-Zero trust Architecture
-Regular compliance audits
-Alignment with WHMIS
-Employee training & retraining
+* Zero trust Architecture
+* Regular compliance audits
+* Alignment with WHMIS
+* Employee training & retraining
