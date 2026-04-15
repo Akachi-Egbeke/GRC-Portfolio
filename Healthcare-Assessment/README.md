@@ -14,3 +14,5 @@ Cloud infrastructure (Azure), PHI/PII data protection, and user access controls.
 * Regular compliance audits
 * Alignment with WHMIS
 * Employee training & retraining
+## Deliverables
+* [View full report](./GRC_Portfolio_Project%20v1.pdf)
